@@ -65,10 +65,16 @@
 
 ## 📌 Projetos em desenvolvimento
 
-🔹 Exercícios de lógica em Java  
-🔹 Calculadoras em Java  
-🔹 Projetos acadêmicos da faculdade  
-🔹 Landing pages com HTML e CSS  
+## 📌 Projetos em Destaque
+
+🔹 **[Landing Page - Instituto VidAtiva](https://github.com/EddyLuiz0/projeto-vidativa)**  
+Desenvolvimento front-end (HTML/CSS) de uma página para um projeto de basquete em cadeira de rodas. Foco em impacto social e design responsivo.
+
+🔹 **[Desafios de Lógica e Enigmas](https://github.com/EddyLuiz0/IntroJava-2026/tree/master/src)**  
+Resoluções de lógica de programação em Java, focadas na preparação para processos seletivos e estágios da área financeira.
+
+🔹 **[Calculadoras e Exercícios em Java](https://github.com/EddyLuiz0/Programa-o-Orientada-a-Objetos-)**  
+Aplicações práticas para consolidação de conceitos de Estrutura de Dados e Orientação a Objetos.
 
 ---
 
