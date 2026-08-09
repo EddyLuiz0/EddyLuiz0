@@ -67,7 +67,7 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 **[Landing Page - Instituto VidAtiva](https://github.com/EddyLuiz0/projeto-vidativa)**  
+🔹 **[Landing Page - Instituto VidAtiva](https://github.com/EddyLuiz0/ADS-M-P1-G6-2025-2)**  
 Desenvolvimento front-end (HTML/CSS) de uma página para um projeto de basquete em cadeira de rodas. Foco em impacto social e design responsivo.
 
 🔹 **[Desafios de Lógica e Enigmas](https://github.com/EddyLuiz0/IntroJava-2026/tree/master/src)**  
