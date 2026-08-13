@@ -23,8 +23,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EddyLuiz0&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyLuiz0&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=EddyLuiz0&show_icons=true&theme=tokyonight&locale=pt-br](https://github.com/EddyLuiz0)" alt="Estatísticas do GitHub" height="150"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EddyLuiz0&layout=compact&theme=tokyonight&locale=pt-br](https://github.com/EddyLuiz0)" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 ---
