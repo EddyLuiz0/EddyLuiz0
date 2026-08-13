@@ -1,39 +1,18 @@
-<h1 align="center">Olá 👋 Eu sou Edson</h1>
+### 💻 Tecnologias e Ferramentas
 
-<p align="center">
-💻 Desenvolvedor em formação <br>
-🚀 Focado em me tornar um Desenvolvedor Full Stack <br>
-☕ Atualmente aprofundando conhecimentos em Java
-</p>
+**Linguagens e Desenvolvimento Web:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **tecnologia e desenvolvimento de software**  
-📚 Estudando **Java, lógica de programação, HTML e CSS**  
-🎯 Objetivo: me tornar um **Desenvolvedor Full Stack com foco em backend Java**
+**Ferramentas e Versionamento:**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 💻 Tecnologias em aprendizado
+### 📚 Atualmente Estudando
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-
-</p>
-
----
-
-## 📚 Atualmente estudando
-
-- Java
 - Lógica de programação
 - Estrutura de dados
 - Desenvolvimento Web
@@ -41,57 +20,17 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EddyLuiz0&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyLuiz0&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=EddyLuiz0&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyLuiz0&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 ---
 
-## 🔥 Sequência de contribuições
+### 🔥 Sequência de Contribuições (Streak)
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=EddyLuiz0&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyLuiz0&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
 </p>
-
----
-
-## 📌 Projetos em desenvolvimento
-
-## 📌 Projetos em Destaque
-
-🔹 **[Landing Page - Instituto VidAtiva](https://github.com/EddyLuiz0/ADS-M-P1-G6-2025-2)**  
-Desenvolvimento front-end (HTML/CSS) de uma página para um projeto de basquete em cadeira de rodas. Foco em impacto social e design responsivo.
-
-🔹 **[Desafios de Lógica e Enigmas](https://github.com/EddyLuiz0/IntroJava-2026/tree/master/src)**  
-Resoluções de lógica de programação em Java, focadas na preparação para processos seletivos e estágios da área financeira.
-
-🔹 **[Calculadoras e Exercícios em Java](https://github.com/EddyLuiz0/Programa-o-Orientada-a-Objetos-)**  
-Aplicações práticas para consolidação de conceitos de Estrutura de Dados e Orientação a Objetos.
-
----
-
-## 🌐 Conecte-se comigo
-
-<p>
-
-<a href="https://www.linkedin.com/in/edson-luiz-soares-da-silva-b90b92190/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/eddy_luiz0/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ Sempre aprendendo e evoluindo no mundo da tecnologia.
